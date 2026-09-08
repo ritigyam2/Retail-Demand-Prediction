@@ -131,7 +131,7 @@ The notebook generates seven saved charts, all included in the repo:
 ## How to run
 
 ```bash
-git clone https://github.com/your-username/Retail-Demand-Prediction.git
+git clone https://github.com/ritigyam2/Retail-Demand-Prediction.git
 
 pip install pandas numpy scikit-learn matplotlib seaborn
 
